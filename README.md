@@ -16,7 +16,7 @@
 
 <h3>Highlights 🌟</h3>
 <ul>
-<li>🌱 I’m currently learning Phython</li>
+<li>🌱 I’m currently learning Python</li>
 <li> 🤔 I’m looking for help with learning AI/ML</li>
 <li> 💬 Ask me about anything under the sun</li>
 <li> 📫 How to reach me: tobiasrafaelp@gmail.com</li>
@@ -24,15 +24,15 @@
 </ul>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafaelpinedatobias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelpinedatobias" height="30" width="40" /></a>
 <a href="https://instagram.com/rappptobias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rappptobias" height="30" width="40" /></a>
 </p>
 <hr>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<h4>Backend</h4>
+<h3 align="left">Languages and Tools 🛠</h3>
+<h4>Backend 🌐</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
@@ -48,7 +48,7 @@
   <img width="12" />
 </div>
 
-<h4>Frontend</h4>
+<h4>Frontend 🖥️</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -64,7 +64,15 @@
   <img width="12" />
 </div>
 
-<h4>Tools:</h4>
+<h4>Database 🛢️</h4>
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+ <img width="12" />
+</div>
+
+<h4>Tools 🛠️</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -78,15 +86,7 @@
   <img width="12" />
 </div>
 
-<h4>Database:</h4>
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
- <img width="12" />
-</div>
-
-<h4>Graphics:</h4>
+<h4>Graphics 🖍</h4>
 <div align="left">
 <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
   <img width="12" />
