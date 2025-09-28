@@ -15,11 +15,13 @@
 <hr>
 
 <h3>Highlights 🌟</h3>
-- 🌱 I’m currently learning Phython
-- 🤔 I’m looking for help with learning AI/ML
-- 💬 Ask me about anything under the sun
-- 📫 How to reach me: tobiasrafaelp@gmail.com
-- ⚡ Fun fact: Anosmia is both a gift and a curse :D
+<ul>
+<li>🌱 I’m currently learning Phython</li>
+<li> 🤔 I’m looking for help with learning AI/ML</li>
+<li> 💬 Ask me about anything under the sun</li>
+<li> 📫 How to reach me: tobiasrafaelp@gmail.com</li>
+<li> ⚡ Fun fact: Anosmia is both a gift and a curse :D</li>
+</ul>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,8 +29,10 @@
 <a href="https://linkedin.com/in/rafaelpinedatobias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelpinedatobias" height="30" width="40" /></a>
 <a href="https://instagram.com/rappptobias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rappptobias" height="30" width="40" /></a>
 </p>
+<hr>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
+<h4>Web Development</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
@@ -48,10 +52,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+
+</div>
+
+<h4></h4>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -60,8 +65,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
+</div>
+
+<h4>Tools:</h4>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -85,19 +92,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rappptobias&show_icons=true&locale=en&layout=compact" alt="rappptobias" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h4>Others:</h4>
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+ <img width="12" />
+</div>
 
 
