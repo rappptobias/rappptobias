@@ -1,9 +1,13 @@
 ## Hi, I'm Raf 👋
 
-<!--
-**rappptobias/rappptobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+<ul>
+<li>WordPress Developer | Full-Stack Web Developer</li>
+<li>Photography Enthusiast</li>
+<li>3D Print Hobbyist</li>
+<li>Casual Gamer</li>
+</ul>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
